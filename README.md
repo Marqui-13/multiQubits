@@ -1,1 +1,1 @@
-# multiQubits
+This code creates an array of numOfQubits qubits and applies a Hadamard gate (H) to each qubit, putting all of them into superposition states. Finally, all of the qubits are measured (Measure), collapsing them into a series of 0s and 1s. The number of qubits and their initial states can be specified as input parameters to the MultiQubits operation.
