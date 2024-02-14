@@ -1,4 +1,4 @@
-```markdown
+
 # Quantum MultiQubits Operation
 
 This repository contains a quantum computing operation designed to demonstrate the basic principles of quantum superposition and measurement. The `MultiQubits` operation initializes an array of qubits, applies a Hadamard gate to each qubit to put them into superposition states, and finally measures all of the qubits, collapsing their states into a series of 0s and 1s.
@@ -57,4 +57,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 - Quantum Development Kit documentation
 - Community contributions and feedback
-```
