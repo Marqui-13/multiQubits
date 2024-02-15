@@ -17,7 +17,7 @@ Please refer to the [Quantum Development Kit documentation](https://docs.microso
 Clone this repository to your local machine to get started:
 
 ```bash
-git clone https://github.com/Marqui-13/your-repo-name.git
+git clone https://github.com/Marqui-13/multiQubits.git
 ```
 
 ## Usage
